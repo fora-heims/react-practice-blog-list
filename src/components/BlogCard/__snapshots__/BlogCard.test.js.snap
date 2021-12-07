@@ -17,6 +17,11 @@ Object {
             Test title
           </div>
           <div
+            class="author"
+          >
+            Author: 
+          </div>
+          <div
             class="subtitle"
           >
             Test subtitle
@@ -48,6 +53,11 @@ Object {
           class="title"
         >
           Test title
+        </div>
+        <div
+          class="author"
+        >
+          Author: 
         </div>
         <div
           class="subtitle"
